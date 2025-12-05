@@ -1,4 +1,4 @@
-# VC Sourcing Engine
+# GitHub Sourcing Engine
 
 An automated tool for Venture Capitalists and investors to discover high-velocity open source repositories on GitHub. This dashboard identifies trending technologies by analyzing star growth velocity rather than just total stars.
 

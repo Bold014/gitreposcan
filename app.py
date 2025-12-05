@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 
 # --- Configuration & Setup ---
 st.set_page_config(
-    page_title="VC Sourcing Engine", 
+    page_title="GitHub Sourcing Engine", 
     page_icon="🚀",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -190,7 +190,7 @@ with st.sidebar:
     )
 
 # Main Content
-st.title("🚀 VC Sourcing Engine")
+st.title("🚀 GitHub Sourcing Engine")
 st.markdown(f"**Target Sector:** `{topic}` | **Strategy:** `High Velocity Discovery`")
 
 with st.expander("ℹ️  **Metric Definitions & Legend (Read Me)**"):
